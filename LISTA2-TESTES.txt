@@ -1,0 +1,64 @@
+TESTES
+
+---------------- EX01 --------------
+ENTRADA		SAIDA
+11			impar
+10			par
+5			impar
+
+---------------- EX02 --------------
+ENTRADA		SAIDA
+10,10,10		aprovado
+10,20,30		aprovado
+1,5,3			reprovado
+		
+---------------- EX03 --------------
+ENTRADA		SAIDA		
+-10			solido
+15			liquido
+120			gasoso
+	
+
+---------------- EX04 --------------
+ENTRADA		SAIDA
+0			erro
+-15			228
+32			32765
+
+---------------- EX05 --------------
+ENTRADA		SAIDA
+a=3,b=2,c=1		a=1,b=2,c=3
+a=3,b=1,c=2		a=1,b=2,c=3
+a=1,b=2,c=3		a=1,b=2,c=3
+
+---------------- EX06 --------------
+ENTRADA		SAIDA
+10,10,10		divisível por Y e Z
+20,3,2		divisível por Y mas não por Z		
+20,2,3		divisível por Z mas não por Y
+10,3,3		não é divisível nem Y nem por Z
+
+---------------- EX07 --------------
+ENTRADA		SAIDA
+3025			tem esta caracteristica
+3022			não tem esta caracteristica
+3010			não tem esta caracteristica
+
+---------------- EX08 --------------
+ENTRADA		SAIDA
+221			Bernardo
+312			Mario
+15			Codigo invalido
+
+---------------- EX09--------------
+ENTRADA		SAIDA
+97379			é um políndromo
+81913			não é um políndromo
+12492			não é um políndromo
+
+---------------- EX10 -------------
+ENTRADA				SAIDA
+4513,320,INDUSTRIAL		808.80
+234,125,RESIDENCIAL		11.25
+150,230,C0MERCIAL			537.50	
+
